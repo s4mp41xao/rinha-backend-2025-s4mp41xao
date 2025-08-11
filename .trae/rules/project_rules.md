@@ -1,1 +1,0 @@
-All comments on code should be in english
